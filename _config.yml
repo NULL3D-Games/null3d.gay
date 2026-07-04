@@ -17,25 +17,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: NULL3D Games
-author: NULL3D Games
+author: Katie Fraser
+title: NULL3D
 email: null3dgames@gmail.com
-incremental: true
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Corinne (or NULL3D/NULL, anything works :3), my pronouns are she/her. I'm an independent game developer, artist, and musician i think.
+  Katie's site for all her projects!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "null3d.gay" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://null3d.gay" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 header_pages:
-    - Gamedev.markdown
-    - Music.markdown
+    - gamedev.md
+    - art.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

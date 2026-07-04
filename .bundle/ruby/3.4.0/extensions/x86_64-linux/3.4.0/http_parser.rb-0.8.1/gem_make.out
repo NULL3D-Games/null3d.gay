@@ -1,0 +1,19 @@
+current directory: /home/katie/Documents/GitHub/null3d.gay/.bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/katie/Documents/GitHub/null3d.gay/.bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260703-9696-eey1as sitelibdir\=./.gem.20260703-9696-eey1as clean
+
+current directory: /home/katie/Documents/GitHub/null3d.gay/.bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260703-9696-eey1as sitelibdir\=./.gem.20260703-9696-eey1as
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/katie/Documents/GitHub/null3d.gay/.bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260703-9696-eey1as sitelibdir\=./.gem.20260703-9696-eey1as install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20260703-9696-eey1as
+
+current directory: /home/katie/Documents/GitHub/null3d.gay/.bundle/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260703-9696-eey1as sitelibdir\=./.gem.20260703-9696-eey1as clean

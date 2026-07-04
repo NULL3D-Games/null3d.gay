@@ -3,36 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
 ---
 
-{:center: style="text-align: center"}
+<div align="center">
+<h1>
+Welcome to NULL3D.gay!
+</h1>
+Hi, I'm Katie Fraser (She/Her), a self taught game developer, artist, and sometimes musician!<br>
+I am a transgender woman (very cool and epic) who is physically disabled <br>(not as cool and epic but i work with what i got)<br>
+I like video games and art obviously, I love working computer hardware (although I'll never afford any of it ever again*) and I'm going to college to get a degree in IT soon!
+</div>
 
-
-
-[![Home](/img/banner.png)]()
-
-<h2 style="text-align: center"> About NULL </h2>
-<p style="text-align: center">Hi, I'm Corinne (or NULL3D/NULL, anything works :3), my pronouns are she/her. I'm an independent game developer, artist, and musician i think. Out of all my passions, game development is definitely my favorite</p>
-
-# [Gamedev]({% link Gamedev.markdown %})
-{:center}
-<p> Check out my gamedev ventures!</p>
-{:center}
-
-<br />
-
-# [Music]({% link Music.markdown %})
-{:center}
-<p> I got some tunes too!</p>
-{:center}
-
-<br />
-# Socials
-{:center}
-[Bluesky](https://bsky.app/profile/null3d.gay)<br />
-{:center}
-[Youtube](https://www.youtube.com/@NULL3D)<br />
-{:center}
-[Itch.io](https://null3d.itch.io)<br />
-{:center}
+<br>
+<h6>
+*I HATE AI I HATE IT WE SHOULD BLOW UP DATACENTERS!!!!!
