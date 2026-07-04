@@ -15,7 +15,7 @@ title: Art
       </div>
       <div align="center">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="{{post.image}}" title="{{post.title}}" height = 500 alt="{{post.title}}">
+        <img src="{{post.image}}" title="{{post.title}}" height = 400 width = 400 alt="{{post.title}}">
       </a>
       </div>
       <div class="entry">

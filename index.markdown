@@ -17,3 +17,7 @@ I like video games and art obviously, I love working computer hardware (although
 <br>
 <h6>
 *I HATE AI I HATE IT WE SHOULD BLOW UP DATACENTERS!!!!!
+
+<br>
+<br>
+ <img src="img/interests.png">
